@@ -10,3 +10,4 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 ### ✉️ Mail me: vladpetriv05@gmail.com
 ### 🌐 Telegram : @vlad_petriv
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=VladPetriv&show_icons=true&hide_title=true" alt="VladPetriv" /></p>

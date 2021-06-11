@@ -10,5 +10,10 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 ### ✉️ Mail me: vladpetriv05@gmail.com
 ### 🌐 Telegram : @vlad_petriv
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=VladPetriv&show_icons=true&hide_title=true" alt="VladPetriv" /></p>
-<a href="https://github.com/syth0le"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VladPetriv langs_count=8&layout=compact&theme=tokyonight" /> </a>
+
+<a href="https://github.com/VladPetriv">
+  <img align="center" alt="My Github Stats"src="https://github-readme-stats.vercel.app/api?username=VladPetriv&show_icons=true&theme=tokyonight&count_private=true&hide=issues,prs" />
+</a>
+<a href="https://github.com/VladPetriv">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VladPetriv&langs_count=8&layout=compact&theme=tokyonight" />
+</a>

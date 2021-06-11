@@ -11,3 +11,4 @@
 ### ✉️ Mail me: vladpetriv05@gmail.com
 ### 🌐 Telegram : @vlad_petriv
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=VladPetriv&show_icons=true&hide_title=true" alt="VladPetriv" /></p>
+<a href="https://github.com/syth0le"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VladPetrivlangs_count=8&layout=compact&theme=tokyonight" /> </a>

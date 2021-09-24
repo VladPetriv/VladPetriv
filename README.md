@@ -1,5 +1,5 @@
 # 👋🏻 Hi, my name is  Vlad Petriv!
-## I'm a beginner *Back-end developer*.
+## I'm a *Back-end developer*.
 ### Languages and Technologies 
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)

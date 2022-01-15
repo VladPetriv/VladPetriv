@@ -1,14 +1,13 @@
 # 👋🏻 Hi, my name is  Vlad Petriv!
 ## I'm a Back-end developer.
+## Currently learning Go!
 ### Languages and Technologies 
+
 **Back-end**
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-black?style=flat-square&logo=node.js)
 
-![NestJS](https://img.shields.io/badge/-NestJS-0aad48?style=flat-square&logo=nestjs)
-![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=flat-square)
 
 **Databases**
 

@@ -1,18 +1,19 @@
 # 👋🏻 Hi, my name is  Vlad Petriv!
 ## I'm a Back-end developer.
-## Currently learning Go!
 ### Languages and Technologies 
 
 **Back-end**
 
-![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-black?style=flat-square&logo=node.js)
-
+![NestJS](https://img.shields.io/badge/-Nest.js-black?style=flat-square&logo=Nest.js)
+![ExpressJS](https://img.shields.io/badge/Express.js-black?style=flat-square&logo=Express.js)
+![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go)
 
 **Databases**
 
 ![Postgresql](https://img.shields.io/badge/-Postgresql-%232c3e50?style=flat-square&logo=Postgresql)
-
+![SQl](https://img.shields.io/badge/-SQL-%232c3e50?style=flat-square&logo=Sql)
+![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb)
 
 **Front-end**
 

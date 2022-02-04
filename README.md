@@ -38,4 +38,5 @@
   <img align="center" alt="My Github Stats"src="https://github-readme-stats.vercel.app/api?username=VladPetriv&show_icons=true&theme=tokyonight&count_private=true&hide=issues,prs" />
 </a>
 
+![Snake animation](https://github.com/VladPetriv/VladPetriv/blob/main/github-user-contribution.svg)
 

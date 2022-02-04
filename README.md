@@ -39,4 +39,3 @@
 </a>
 
 
-![Snake animation](https://github.com/VladPetriv/VladPetriv/blob/main/github-contribution-grid-snake.svg)

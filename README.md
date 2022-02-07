@@ -4,10 +4,8 @@
 
 **Back-end**
 
-![NodeJS](https://img.shields.io/badge/-NodeJS-black?style=flat-square&logo=node.js)
-![NestJS](https://img.shields.io/badge/-Nest.js-black?style=flat-square&logo=Nest.js)
-![ExpressJS](https://img.shields.io/badge/Express.js-black?style=flat-square&logo=Express.js)
 ![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go)
+![NodeJS](https://img.shields.io/badge/-NodeJS-black?style=flat-square&logo=node.js)
 
 **Databases**
 

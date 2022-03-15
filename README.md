@@ -1,5 +1,5 @@
 # 👋🏻 Hi, my name is  Vlad Petriv!
-## I'm a Back-end developer.
+## I'm a software engineer.
 ### Languages and Technologies 
 
 **Back-end**

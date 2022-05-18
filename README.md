@@ -31,7 +31,3 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ### ✉️ Mail me: vladpetriv05@gmail.com
 ### 🌐 Telegram : @VladPetriv
-
-<a href="https://github.com/VladPetriv">
-  <img align="center" alt="My Github Stats"src="https://github-readme-stats.vercel.app/api?username=VladPetriv&show_icons=true&theme=tokyonight&count_private=true&hide=issues,prs" />
-</a>

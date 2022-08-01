@@ -1,5 +1,5 @@
-# 👋🏻 Hi, my name is  Vlad Petriv!
-## I'm a software engineer.
+# 👋🏻 Hi there.
+## I'm a Go engineer.
 ### Languages and Technologies 
 
 **Back-end**

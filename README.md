@@ -1,5 +1,5 @@
 # 👋🏻 Hi there.
-## I'm a BackEnd engineer.
+## I'm a Go engineer.
 ### Languages and Technologies 
 
 **Back-end**

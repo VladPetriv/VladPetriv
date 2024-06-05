@@ -38,3 +38,5 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vladpetriv&show_icons=true&theme=cobalt&locale=en)
 ![GitHub languages stat](https://github-readme-stats.vercel.app/api/top-langs?username=vladpetriv&show_icons=true&locale=en&theme=cobalt&layout=compact)
+
+[![Vlad Petriv profile views](https://u8views.com/api/v1/github/profiles/80276277/views/day-week-month-total-count.svg)](https://u8views.com/github/VladPetriv)
